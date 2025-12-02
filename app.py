@@ -79,7 +79,7 @@ def show_home():
         image_loaded = False
         image_paths = [
             r"C:\Users\mothi\OneDrive\Desktop\Titanic Predictive Model\download.jpeg",
-            "images/titanic.jpg",
+            "https://github.com/24Rudzani/Titanic-Predictive-Model/blob/main/download.jpeg",
             "titanic_image.jpg",
             "titanic.jpeg",
             "titanic.png",
